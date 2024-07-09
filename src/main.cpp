@@ -4,6 +4,7 @@
 #include <WiFiClientSecure.h>
 #include <ESP8266WiFi.h>
 #include <base64.h>
+#include <resources.h>
 
 // WiFi credentials
 const char *ssid = "JaiHanuman";
